@@ -56,7 +56,7 @@ Kalpa DAO membership requires access to a limited edition generative art avatar 
 
 ## 10. Multi-chain Accounts & Liquidity
 
-LP tokens spawn multi-chain addresses/accounts in the networks we support and allow you to store, send & receive numerous coins/tokens on different blockchains in one single address, with only one single passphrase to control assets across multiple blockchain. In this way, member accounts who stake become their own multi-chain liquidity providers. In addition, Kalpa DAO treasury stakes for the best yield across all networks and pays dividends relevant to total stake back to its members who hold LP tokens.
+LP tokens spawn multi-chain addresses/accounts in the networks we support and allow you to store, send & receive numerous coins/tokens on different blockchains from one single address, with a single passphrase to control all your other addresses. In this way, member accounts who stake become their own multi-chain liquidity providers. In addition, Kalpa DAO treasury stakes for the best yield across all major gen 3 and gen 4 blockchain POS networks and in turn pays dividends back to all active members who stake LP tokens with liqudity.
 
 ## 11. Token Design
 
