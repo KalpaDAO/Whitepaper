@@ -40,7 +40,7 @@ Kalpa DAO leverages a combination of Proof of Vote (PoV) ³, Proof of Personhood
 A proposal must collect at least ⌊Nc2⌋+1 approve actions in a signed transaction from active member agents in order to be approved.  
   
 
-## 7. Time Thresholds
+## 7. Expiration
 
 Each proposal type has a predefined expiration date. For example, all votes on community proposals must be submitted within 30 days of the submission date. More complex system proposals that take longer to reach consensus expire in 90 days.
  
