@@ -1,4 +1,4 @@
-![image info](https://raw.githubusercontent.com/KalpaDAO/Whitepaper/239f686b1534e6e855257b8197f8dfd9306d5bc7/git-banner.svg)
+![image info](https://raw.githubusercontent.com/KalpaDAO/Whitepaper/fb71a917108b2e0d04c54692ceb43759b24dc9cd/git-banner.svg)
 
 # Kalpa DAO 
 
