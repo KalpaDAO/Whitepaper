@@ -117,33 +117,19 @@ Once the adequate technology, infrastructure, community and capital are in place
 
 ## References
 
-1.  Field M. & Ezra W. Holographic Consensus — Part 2. DAO Stack Medium Blog. (2019). [https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde  
-      
-    ](https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde)
+1.  Field M. & Ezra W. Holographic Consensus — Part 2. DAO Stack Medium Blog. (2019). [https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde](https://medium.com/daostack/holographic-consensus-part-2-4fd461e8dcde)
     
 2.  Faqir-Rhazoui, Y., Arroyo, J. & Hassan, S. A comparative analysis of the platforms for decentralized autonomous organizations in the Ethereum blockchain. J Internet Serv Appl 12, 9 (2021). [https://doi.org/10.1186/s13174-021-00139-6](https://doi.org/10.1186/s13174-021-00139-6)  
       
     
-3.  Li K, Li H, Wang H, An H, Lu P, Yi P and Zhu F (2020) PoV: An Efficient Voting-Based Consensus Algorithm for Consortium Blockchains. Front. Blockchain 3:11. doi: [https://www.frontiersin.org/articles/10.3389/fbloc.2020.00011/full  
-      
-    ](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00011/full)
+3.  Li K, Li H, Wang H, An H, Lu P, Yi P and Zhu F (2020) PoV: An Efficient Voting-Based Consensus Algorithm for Consortium Blockchains. Front. Blockchain 3:11. doi: [https://www.frontiersin.org/articles/10.3389/fbloc.2020.00011/full](https://www.frontiersin.org/articles/10.3389/fbloc.2020.00011/full)
     
-4.  M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford, "Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies," 2017 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2017, pp. 23-26, doi: 10.1109/EuroSPW.2017.46. [https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf  
-      
-    ](https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf)
+4.  M. Borge, E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly and B. Ford, "Proof-of-Personhood: Redemocratizing Permissionless Cryptocurrencies," 2017 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2017, pp. 23-26, doi: 10.1109/EuroSPW.2017.46. [https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf](https://berkeley-defi.github.io/assets/material/Proof%20of%20Person.pdf)
     
-5.  Sporny M., Longley D., Sabadello M., Reed D., Steele O. Allen C. (2021) “Decentralized Identifiers (DIDs) v1.0 Core architecture, data model, and representations.” [https://www.w3.org/TR/did-core  
-      
-    ](https://www.w3.org/TR/did-core/)
+5.  Sporny M., Longley D., Sabadello M., Reed D., Steele O. Allen C. (2021) “Decentralized Identifiers (DIDs) v1.0 Core architecture, data model, and representations.” [https://www.w3.org/TR/did-core](https://www.w3.org/TR/did-core/)
     
-6.  Faqir-Rhazoui, Youssef and Arroyo Gallardo, Javier and Hassan, Samer (2021) A Scalable Voting System: Validation of Holographic Consensus in DAOstack. In Proceedings of the 54th Hawaii International Conference on System Sciences. University of Hawaii, Hawaii. ISBN 978-0-9981331-4-0 [https://scholarspace.manoa.hawaii.edu/handle/10125/71296  
-      
-    ](https://scholarspace.manoa.hawaii.edu/handle/10125/71296)
+6.  Faqir-Rhazoui, Youssef and Arroyo Gallardo, Javier and Hassan, Samer (2021) A Scalable Voting System: Validation of Holographic Consensus in DAOstack. In Proceedings of the 54th Hawaii International Conference on System Sciences. University of Hawaii, Hawaii. ISBN 978-0-9981331-4-0 [https://scholarspace.manoa.hawaii.edu/handle/10125/71296](https://scholarspace.manoa.hawaii.edu/handle/10125/71296)
     
-7.  Douceur J.R. (2002) The Sybil Attack. In: Druschel P., Kaashoek F., Rowstron A. (eds) Peer-to-Peer Systems. IPTPS 2002. Lecture Notes in Computer Science, vol 2429. Springer, Berlin, Heidelberg. [https://doi.org/10.1007/3-540-45748-8_24  
-      
-    ](https://doi.org/10.1007/3-540-45748-8_24)
+7.  Douceur J.R. (2002) The Sybil Attack. In: Druschel P., Kaashoek F., Rowstron A. (eds) Peer-to-Peer Systems. IPTPS 2002. Lecture Notes in Computer Science, vol 2429. Springer, Berlin, Heidelberg. [https://doi.org/10.1007/3-540-45748-8_24](https://doi.org/10.1007/3-540-45748-8_24)
     
-8.  Gkillas, Konstantinos and Bekiros, Stelios and Siriopoulos, Costas, Extreme Correlation in Cryptocurrency Markets (November 3, 2018). Available at SSRN: [https://ssrn.com/abstract=3180934](https://ssrn.com/abstract=3180934) or [http://dx.doi.org/10.2139/ssrn.3180934  
-      
-    ](http://dx.doi.org/10.2139/ssrn.3180934)
+8.  Gkillas, Konstantinos and Bekiros, Stelios and Siriopoulos, Costas, Extreme Correlation in Cryptocurrency Markets (November 3, 2018). Available at SSRN: [https://ssrn.com/abstract=3180934](https://ssrn.com/abstract=3180934) or [http://dx.doi.org/10.2139/ssrn.3180934](http://dx.doi.org/10.2139/ssrn.3180934)
