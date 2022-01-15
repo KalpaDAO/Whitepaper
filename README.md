@@ -7,7 +7,7 @@
 *12/21/2021*
 
 
-Abstract. A Multi-chain Decentralized Autonomous Organization (MDAO) presents a novel mechanism to raise and allocate capital, attract and retain talent, launch projects across protocols strategically where they are most needed, build on existing community network effects and rapidly go to market without the traditional constraints of a centralized investment group or the liquidity of a single blockchain network. Kalpa DAO is a new breed of Multi-chain Decentralized Autonomous Organization (MDAO) founded to facilitate the growth, interoperability and strategic collaboration across blockchain ecosystems.  
+**Abstract.** A Multi-chain Decentralized Autonomous Organization (MDAO) presents a novel mechanism to raise and allocate capital, attract and retain talent, launch projects across protocols strategically where they are most needed, build on existing community network effects and rapidly go to market without the traditional constraints of a centralized investment group or the liquidity of a single blockchain network. Kalpa DAO is a new breed of Multi-chain Decentralized Autonomous Organization (MDAO) founded to facilitate the growth, interoperability and strategic collaboration across blockchain ecosystems.  
   
 
 ## 1. Introduction
