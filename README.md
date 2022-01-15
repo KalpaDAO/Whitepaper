@@ -74,7 +74,7 @@ Agents must own a membership NFT in order to hold and access LP tokens. LP token
 
 ## 13. Incentives
 
-Members who vote consistently on proposals that get high approval rates, pass all PoP thresholds and stake liquidity receive a percentage of the DAOs Total Locked Value. The first 100 members can earn LP token bonuses
+Members who vote consistently on proposals that get high approval rates, pass all PoP thresholds and stake liquidity receive a percentage of the DAOs Total Locked Value. The first 100 members can earn 10% of total community LP token distribution bonuses during the bootstrapping phase to accelerate unlocking of LP tokens.
 
 ## 14. Reward Distribution
 
@@ -92,8 +92,6 @@ Decentralized applications that result in funding from the Kalpa DAO give a perc
 Kalpa DAO validators play a key role in creating cross chain liquidity, as 20% of their staking rewards across all networks are paid back to the Kalpa DAO treasury multi-chain wallets in return for voting stake. Validators who are part of the Kalpa DAO ecosystem embody the principles of decentralization and act as stewards on the networks they operate in, always looking for opportunities to help launch and advise new dApps and public good projects with talent from the various blockchain ecosystems they operate in.
 
 ## 13. Decentralization
-
-  
 
 Once the adequate technology, infrastructure, community and capital are in place to scale up, a more distributed governance model will be deployed to empower all DAO participants in larger governance decisions. These four phases - Inception, Birth, Growth and Disruption - will be initiated by relevant funding milestones and completion of the related tasks in each phase.
 
