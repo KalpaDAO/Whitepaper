@@ -47,7 +47,7 @@ Each proposal type has a predefined expiration date. For example, all votes on c
 
 ## 8. System Upgrades
 
-Agents must pass a Proof of Personhood threshold to vote on system proposals in an effort to mitigate sybil attacks ⁷ as well as other system vulnerabilities presented by Pareto distribution ⁸. Kalpa members can still vote on community proposals, but will not not be able to vote on proposals for system upgrades.  
+Agents must pass a Proof of Personhood threshold to vote on system proposals in an effort to mitigate sybil attacks ⁷ as well as other system vulnerabilities presented by Pareto distribution ⁸. Kalpa members can still vote on community proposals, but will not not be able to vote on system upgrade proposals unless Proof of Personhood thresholds are met.   
   
 
 ## 9. Membership
