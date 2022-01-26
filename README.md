@@ -42,7 +42,7 @@ A proposal must collect at least ⌊Nc2⌋+1 approve actions in a signed transac
 
 ## 7. Expiration
 
-Each proposal type has a predefined expiration date. For example, all votes on community proposals must be submitted within 30 days of the submission date. More complex system proposals that take longer to reach consensus expire in 90 days.
+Each proposal type has a predefined expiration date. For example, all votes on community proposals must be submitted within 30 days of the proposal publishing date. More complex system proposals that take longer to reach consensus expire in 90 days.
  
 
 ## 8. System Upgrades
